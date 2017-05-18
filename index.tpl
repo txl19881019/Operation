@@ -246,20 +246,13 @@ display: none;
 </head>
 <body>
 <header>
-<x-markdown src="section/01_header.md" />
+
 </header>
-<nav>
-<div class="menubar">
-<a class="button">&#9776;&nbsp;索引</a>
-</div>
-<x-index />
-</nav>
 <article>
 
 
 </article>
 <footer>
-<x-markdown src="section/99_footer.md" />
 </footer>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
