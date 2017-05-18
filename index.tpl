@@ -10,7 +10,7 @@ color: #333;
 font-family: sans-serif;
 font-size: 12pt;
 line-height: 170%;
-padding: 0 30px 0 270px;
+padding: 0 30px 0 0;
 }
 
 header .banner {
