@@ -143,7 +143,7 @@ border: 1px solid #ccc;
 }
 
 article p strong {
-color: #f00;
+color: #000;
 }
 
 article pre {
