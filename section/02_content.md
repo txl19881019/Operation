@@ -5,7 +5,7 @@
 
 手机扫描可将注册地址分享给好友<br/>
 
-![图片](https://txl19881019.github.io/Operation/section/img/3.png)
+![图片](https://txl19881019.github.io/Operation/section/img/3.PNG)
 ![图片](https://txl19881019.github.io/Operation/section/img/4.jpg)<br/>
 
 通过右上角分享发送给朋友。<br/>
