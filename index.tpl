@@ -249,8 +249,7 @@ display: none;
 
 </header>
 <article>
-
-
+<x-markdown src="section/02_content.md" />
 </article>
 <footer>
 </footer>
