@@ -18,10 +18,9 @@
 <br/>
 ##发现板块配置##
 
-![图片](https://txl19881019.github.io/Operation/section/img/7.png)<br/>
 发现板块中可以修改顶部图片、修改模块图片及内容。<br/>
 ###顶部图片配置###
-![图片](https://txl19881019.github.io/Operation/section/img/8.png)<br/>
+
 点击选取顶部图片按钮，选择需要更换的图片。<br/>
 **注意**
 >宽*高：1080\*240   大小:100K以下
